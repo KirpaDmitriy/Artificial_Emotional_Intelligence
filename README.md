@@ -1,2 +1,2 @@
-# Artificial_Emotional_Intelligence
+# Плюшевый ИИ
 Восстание машин
